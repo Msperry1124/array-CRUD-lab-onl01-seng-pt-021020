@@ -29,7 +29,6 @@ wow = array.shift
 puts array.inspect
 puts "wow"
 end
-end
 
 def retrieve_element_from_index(array, index_number)
 
